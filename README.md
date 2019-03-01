@@ -1,6 +1,6 @@
 # BlockChain-Attendance-System
 Using Blockchain to Maintain an Attendance System:
-Created by: Devansh, Rohan Mukherjee, Ananya Ganesh, Shreya //(add your fullnames and remove this comment)
+Created by: Devansh Mehta , Rohan Mukherjee, Ananya Ganesh, Shreya Pandey
 
 
 Guidelines: 
