@@ -1,5 +1,8 @@
 body {
     max-width: 500px;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
